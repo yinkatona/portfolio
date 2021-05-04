@@ -43,14 +43,15 @@ class AboutMe extends StatelessWidget {
                       Text('ADEYINKA FATONA',
                           style: TextStyle(
                             color: Colors.black,
-                            fontSize: 31,
+                            fontSize: 28,
                             fontWeight: FontWeight.bold,
                           )),
                       Text(
                         'FLUTTER DEVELOPER',
                         style: TextStyle(
                             color: Colors.black,
-                            fontSize: 17,
+                            fontSize: 16,
+                            backgroundColor: Colors.black12,
                             letterSpacing: 1.0),
                       ),
                       SizedBox(
